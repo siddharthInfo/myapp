@@ -1,0 +1,27 @@
+.col{
+    width:150px;
+    background-color: aquamarine;
+    border-radius:8px;
+    margin:5px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.tel{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: italic;
+    margin:100px 50px 20px 60px;
+    font-size:50px;
+    border: 2px solid black;
+    width:30vw;
+
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+    margin-left: 35vw;
+    border-radius: 30px;
+    background-color: teal;
+    color: aliceblue;
+}
+.back{
+     background-color:pink;
+}
